@@ -1,0 +1,8 @@
+.serverless
+node_modules
+api_dynamodb.js
+help.txt
+mongo.js
+test.js
+secrets.json
+serverless.yml
